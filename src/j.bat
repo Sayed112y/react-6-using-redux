@@ -1,0 +1,1 @@
+json-server -p 3001 -d 3000 -w db.json
